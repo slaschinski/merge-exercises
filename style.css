@@ -16,6 +16,7 @@ body {
 .main {
     float: left;
     width: 66%;
+    background-color: green;
 }
 
 .sidebar {
