@@ -16,11 +16,11 @@ body {
 .main {
   float: left;
   width: 66%;
-  background-color: green;
+  background-color: pink;
 }
 
 .sidebar {
   float: left;
   width: 33%;
-  background-color: red;
+  background-color: palegreen;
 }
