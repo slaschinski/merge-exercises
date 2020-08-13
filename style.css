@@ -14,14 +14,9 @@ body {
 }
 
 .main {
-<<<<<<< HEAD
-    float: left;
-    width: 66%;
-    background-color: green;
-=======
+  background-color: green;
   float: left;
   width: 66%;
->>>>>>> develop
 }
 
 .sidebar {
