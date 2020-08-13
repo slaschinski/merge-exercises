@@ -22,4 +22,5 @@ body {
 .sidebar {
   float: left;
   width: 33%;
+  background-color: red;
 }
